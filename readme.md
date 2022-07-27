@@ -10,7 +10,7 @@ A home page for a business growth company made using pure HTML and CSS
 ## Time Taken for Completion
 - 6 hours
 
-<!-- ### Checkout the Project here : [hostingservices](https://hostingservices.netlify.app/) -->
+### Checkout the Project here : [business-growth](https://business-growth.netlify.app/)
 
 ## Output
 ![output](output1.png)
